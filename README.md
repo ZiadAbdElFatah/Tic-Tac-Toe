@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe project, My first project in Python using OOP
+2-players Tic-Tac-Toe project, My first project in Python using OOP
